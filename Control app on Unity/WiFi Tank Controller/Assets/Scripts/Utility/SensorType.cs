@@ -1,0 +1,23 @@
+[System.Serializable]
+public enum SensorType
+{
+    none,
+    humidity,
+    temperature,
+    ultasonicDistance,
+    accelerometer,
+    gyroscop,
+    angle,
+    pressure,
+    altitude,
+    batteryVoltage,
+    batteryPercente,
+    rotatePerSecond,
+    speed,
+    mileage,
+    signal,
+    repeaterBattery,
+    repeaterBatteryPercente,
+    moveSide,
+    connection
+}

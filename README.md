@@ -17,7 +17,7 @@
  - Is there a difference between HTTP, WebSocket and SSE protocols for remote control?
  - Increase the FPS on the ESP-32 camera and configure it properly 🚀.
  - How to implement error protection during remote control ❌?
- - Learn about the interesting bugs like: antenna on the ESP-32, I2C arduino and EPS-32 and GPIO0 pin 🐞.
+ - Learn about the interesting bugs like: antenna on the ESP-32, I2C arduino, EPS-32 and GPIO0 pin 🐞.
  - How to do remote control with low latency ⏱️.
  - How to achieve power stability for RC vehicles ⚡?
  - See an example of a working tank on these technologies with cool pictures 🖼️.

@@ -1,4 +1,4 @@
-# Wi-Fi-controlled-tank project
+# Wi-Fi-controlled tank project
 This project about Wi-Fi controlled tank.
 
 ![](./Pictures/main.jpg)

@@ -26,5 +26,5 @@ This project about Wi-Fi controlled tank.
 [Read my article](https://www.hackster.io/twfi/how-to-create-a-wi-fi-tank-with-a-camera-c17e5e). There I wrote all my experiences in building the tank. I really hope it helps and inspires someone to create cool stuff 😉.
 
 
-**Principle diagram of the tank**
+**Circuit diagram of the tank**
 ![](./Pictures/shematic.png)

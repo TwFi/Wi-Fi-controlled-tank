@@ -1,14 +1,14 @@
 # Wi-Fi-controlled-tank project
 This project about Wi-Fi controlled tank.
 
-![](https://photos.app.goo.gl/PpZSPeJnx8uSnZKv9)
+![](./Pictures/main.jpg)
 
 **What is used for the project:**
  - ESP-32-Cam board for Wi-Fi communication📡  and camera operation 🎥.
  - Arduino Nano for motor control 🕹️ and sensor processing 🌡️.
  - Android device 📱 with control terminal (application on Unity game engine).
 
-![](https://photos.app.goo.gl/4Qp8b5EVmWsW8CcKA)
+![](./Pictures/decompose.jpg)
 
 ## If you want to know😎:
 
@@ -27,4 +27,4 @@ This project about Wi-Fi controlled tank.
 
 
 **Principle diagram of the tank**
-![](https://photos.app.goo.gl/7YMPwRCpr33aP4bM7)
+![](./Pictures/shematic.png)
